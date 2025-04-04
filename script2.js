@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function(){
     })
     })
     const alternaContraste = document.getElementById('alterna-contraste')
-})
+.
  
 diminuiFonteBotao.addEventListener('click', function(){
     tamanhoAtualFonte -= 0.1;
